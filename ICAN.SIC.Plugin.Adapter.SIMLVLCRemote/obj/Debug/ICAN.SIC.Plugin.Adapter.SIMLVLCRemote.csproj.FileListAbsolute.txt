@@ -1,0 +1,6 @@
+C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.dll
+C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.pdb
+C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.csprojResolveAssemblyReference.cache
+C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.csproj.CoreCompileInputs.cache
+C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.dll
+C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.pdb
