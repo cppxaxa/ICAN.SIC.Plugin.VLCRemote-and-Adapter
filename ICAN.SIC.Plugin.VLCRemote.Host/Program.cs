@@ -11,7 +11,7 @@ namespace ICAN.SIC.Plugin.VLCRemote.Host
     {
         static void Main(string[] args)
         {
-            VLCRemoteConnector connector = new VLCRemoteConnector();
+            VLCRemote connector = new VLCRemote();
 
             connector.Hub.Subscribe<IVLCResponse>(printResponse);
 

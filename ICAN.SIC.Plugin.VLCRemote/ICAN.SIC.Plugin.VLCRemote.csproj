@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataTypes\IVLCCommand.cs" />
+    <Compile Include="DataTypes\Log.cs" />
     <Compile Include="DataTypes\VLCCommand.cs" />
     <Compile Include="DataTypes\VLCCommandType.cs" />
     <Compile Include="DataTypes\IVLCResponse.cs" />

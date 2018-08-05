@@ -1,4 +1,5 @@
 ﻿using ICAN.SIC.Abstractions;
+using ICAN.SIC.Abstractions.IMessageVariants;
 using ICAN.SIC.Plugin.VLCRemote.DataTypes;
 using System;
 using System.Collections.Generic;
@@ -9,13 +10,13 @@ using VLCControl;
 
 namespace ICAN.SIC.Plugin.VLCRemote
 {
-    public class VLCRemoteConnector : AbstractPlugin
+    public class VLCRemote : AbstractPlugin
     {
         private readonly VLCRemoteController controller = new VLCRemoteController();
         private readonly VLCRemoteConnectorHelper helper;
         private readonly VLCRemoteConnectorUtility utility = new VLCRemoteConnectorUtility();
 
-        public VLCRemoteConnector() : base("VLCRemoteConnector")
+        public VLCRemote() : base("VLCRemoteConnector")
         {
             string vlcHost, vlcPort;
 
@@ -54,6 +55,10 @@ namespace ICAN.SIC.Plugin.VLCRemote
             string log = helper.ExecuteCommand(command);
 
             VLCResponse response = new VLCResponse(log);
+
+            Log sicLog = new Log(LogType.Info, log);
+            hub.Publish<ILog>(sicLog);
+
             hub.Publish<VLCResponse>(response);
         }
     }

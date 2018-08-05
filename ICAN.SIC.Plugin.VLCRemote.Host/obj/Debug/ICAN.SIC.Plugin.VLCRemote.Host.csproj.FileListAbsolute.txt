@@ -25,3 +25,10 @@ c:\users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote.
 C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.VLCRemote.Host.exe.config
 C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.VLCRemote.Host.exe
 C:\Users\pxaxa\source\repos\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.VLCRemote.Host.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.VLCRemote.Host.exe.config
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.VLCRemote.Host.exe
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.VLCRemote.Host.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote.Host\obj\Debug\ICAN.SIC.Plugin.VLCRemote.Host.csprojResolveAssemblyReference.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote.Host\obj\Debug\ICAN.SIC.Plugin.VLCRemote.Host.csproj.CoreCompileInputs.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote.Host\obj\Debug\ICAN.SIC.Plugin.VLCRemote.Host.exe
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote.Host\obj\Debug\ICAN.SIC.Plugin.VLCRemote.Host.pdb

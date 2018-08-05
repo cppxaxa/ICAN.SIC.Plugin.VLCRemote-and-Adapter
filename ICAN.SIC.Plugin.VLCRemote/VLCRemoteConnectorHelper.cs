@@ -122,18 +122,7 @@ namespace ICAN.SIC.Plugin.VLCRemote
                     Console.ResetColor();
                 }
             }
-            else if (
-                command.Command == VLCCommandType.Help
-                || command.Command == VLCCommandType.Next
-                || command.Command == VLCCommandType.Pause
-                || command.Command == VLCCommandType.Play
-                || command.Command == VLCCommandType.Previous
-                || command.Command == VLCCommandType.Quit
-                || command.Command == VLCCommandType.StepVolumeDown
-                || command.Command == VLCCommandType.StepVolumeUp
-                || command.Command == VLCCommandType.Stop
-                )
-            {
+            else {
                 if (m_vlcControl.sendCustomCommand(command.Command.ToString()))
                 {
                     log = m_vlcControl.reciveAnswer();
