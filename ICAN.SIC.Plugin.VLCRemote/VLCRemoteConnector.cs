@@ -50,6 +50,11 @@ namespace ICAN.SIC.Plugin.VLCRemote
             hub.Subscribe<IVLCCommand>(this.SignalVLC);
         }
 
+        public override void Dispose()
+        {
+            
+        }
+
         private void SignalVLC(IVLCCommand command)
         {
             string log = helper.ExecuteCommand(command);

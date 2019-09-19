@@ -64,5 +64,10 @@ namespace ICAN.SIC.Plugin.Adapter.SIMLVLCRemote
             
             hub.Publish<VLCCommand>(vlcCommand);
         }
+
+        public override void Dispose()
+        {
+            hub.Unsubscribe<IBotResult>(this.BotResultToVLCCommand);
+        }
     }
 }
