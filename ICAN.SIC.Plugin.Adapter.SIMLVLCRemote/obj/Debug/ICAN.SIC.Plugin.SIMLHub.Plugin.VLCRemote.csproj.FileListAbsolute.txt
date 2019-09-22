@@ -1,0 +1,7 @@
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.dll
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\bin\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.csprojAssemblyReference.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.csproj.CoreCompileInputs.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.csproj.CopyComplete
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.dll
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\obj\Debug\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.pdb

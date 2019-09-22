@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICAN.SIC.Plugin.VLCRemote",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICAN.SIC.Plugin.VLCRemote.Host", "ICAN.SIC.Plugin.VLCRemote.Host\ICAN.SIC.Plugin.VLCRemote.Host.csproj", "{0755C2EF-8295-4735-9EDD-1F730C9FBB64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICAN.SIC.Plugin.Adapter.SIMLVLCRemote", "ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\ICAN.SIC.Plugin.Adapter.SIMLVLCRemote.csproj", "{970938B2-31E3-463B-856F-5D20B5370741}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote", "ICAN.SIC.Plugin.Adapter.SIMLVLCRemote\ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote.csproj", "{970938B2-31E3-463B-856F-5D20B5370741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

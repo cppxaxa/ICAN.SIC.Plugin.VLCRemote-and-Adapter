@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ICAN.SIC.Plugin.Adapter.SIMLVLCRemote</RootNamespace>
-    <AssemblyName>ICAN.SIC.Plugin.Adapter.SIMLVLCRemote</AssemblyName>
+    <AssemblyName>ICAN.SIC.Plugin.SIMLHub.Plugin.VLCRemote</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -27,3 +27,4 @@ D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote\obj\Debug\I
 D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote\obj\Debug\ICAN.SIC.Plugin.VLCRemote.dll
 D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote\obj\Debug\ICAN.SIC.Plugin.VLCRemote.pdb
 D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote\obj\Debug\ICAN.SIC.Plugin.VLCRemote.csproj.CopyComplete
+D:\Projects\ICAN\ICAN.SIC.Plugin.VLCRemote\ICAN.SIC.Plugin.VLCRemote\obj\Debug\ICAN.SIC.Plugin.VLCRemote.csprojAssemblyReference.cache
